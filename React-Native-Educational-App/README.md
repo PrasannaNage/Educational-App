@@ -1,3 +1,4 @@
+
 # Education App for the Senior React Native Developer Assignment
 
 ![Home Screen](https://i.imgur.com/gZgeRnZ.png)
